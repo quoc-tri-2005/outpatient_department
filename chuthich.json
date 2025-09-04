@@ -1,0 +1,37 @@
+[
+  {
+    "icon": "<i class='bi bi-circle-fill text-warning'></i>",
+    "label": "Đang Khám",
+    "content": ""
+  },
+  {
+    "icon": "<i class='bi bi-circle-fill text-danger'></i>",
+    "label": ["1. Đang làm các dịch vụ.", " 2. Hẹn trả KQ."],
+    "content": ""
+  },
+  {
+    "icon": "<i class='bi bi-circle-fill text-success'></i>",
+    "label": "Kết Thúc Khám",
+    "content": ""
+  },
+  {
+    "icon": "<i class='fa-solid fa-user-clock text-primary'></i>",
+    "label": "Chờ Khám BHYT",
+    "content": ""
+  },
+  {
+    "icon": "<i class='bi bi-person-fill'></i>",
+    "label": "Chờ Khám Dịch Vụ",
+    "content": ""
+  },
+  {
+    "icon": "<i class='bi bi-flag-fill text-danger'></i>",
+    "label": "Cận Lâm Sàng chưa hoàn thành",
+    "content": ""
+  },
+  {
+    "icon": "<i class='bi bi-check-lg text-success'></i>",
+    "label": "Cận Lâm Sàng đã hoàn thành",
+    "content": ""
+  }
+]
