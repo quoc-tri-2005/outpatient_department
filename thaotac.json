@@ -71,5 +71,7 @@
  {"label":" Gây mê khác",
 "content":"Thiết lập (Phòng Khám + Phòng Bác sĩ) -> Khám bệnh ngoại trú -> Chọn bệnh nhân-> Dịch vụ-> Danh mục ngoà bảo hiển-> PTTT -> Gây mê khác"
 
+}, {"label":" In phiếu khám bệnh vào viện",
+"content":"Thiết lập (Phòng Khám + Phòng Bác sĩ) -> Ngoại trú -> Khám bệnh ngoại trú -> In ấn -> Phiếu khám bệnh vào viện "
 }
 ]
