@@ -7,5 +7,8 @@
   },
   {
     "label": "Thuốc (Viện phí) -> mua thuốc từ nhà thuốc."
+  }, 
+{
+    "label": "Các lịch sử về các khám và điều trị đều được join với nhau qua Mã Bệnh Nhân + Mã BHYT + CCCD."
   }
 ]
