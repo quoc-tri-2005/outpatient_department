@@ -50,7 +50,7 @@
   },
   {
     "label": "Tạo phiếu chăm sóc",
-    "content": "Thiết lập phòng (Phòng Khám + Phòng điều trị ngoại trú) -> Điều trị ngoại trú -> Hành chính điều trị ngoại trú -> Chọn bệnh nhân -> Dịch vụ -> Tạo phiếu chăm sóc.  || Thiết lập phòng (Phòng Khám + Phòng điều trị ngoại trú ) -> Điều trị ngoại trú -> Hành chính điều trị ngoại trú -> Chọn bệnh nhân -> Chuột phải (Thêm phiếu) -> Danh sách (Phiếu điều trị và chăm sóc cá nhân) -> ",
+    "content": "Thiết lập phòng (Phòng Khám + Phòng điều trị ngoại trú ) -> Điều trị ngoại trú -> Hành chính điều trị ngoại trú -> Chọn bệnh nhân -> Chuột phải (Thêm phiếu) -> Danh sách (Phiếu điều trị và chăm sóc cá nhân) -> Phiếu theo dõi và chăm sóc -> Tạo phiếu chăm -> Lưu phiếu -> Danh sách phiếu -> ",
     "result": ""
   },
   {
