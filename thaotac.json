@@ -68,13 +68,19 @@
     "content": "Thiết lập phòng (Phòng Khám + Phòng Bác sĩ ) -> Ngoại trú -> Khám bệnh ngoại trú -> Danh sách tiếp nhận -> Chọn Bệnh nhân -> Chuột phải -> Thanh toán bệnh phí -> Chọn loại dv cần chuyển về BHYT (Kiểm tra chênh lệch BHYT) ->Chuột phải->Chọn BHYT->Kết thúc.",
     "result": ""
  },
- {"label":" Gây mê khác",
+ {"label":"Gây mê khác",
 "content":"Thiết lập (Phòng Khám + Phòng Bác sĩ) -> Khám bệnh ngoại trú -> Chọn bệnh nhân-> Dịch vụ-> Danh mục ngoài bảo hiểm -> PTTT -> Gây mê khác."
 }, 
-{"label":" Trả Bệnh Nhân (Không Khám)",
+{"label":"Trả Bệnh Nhân (Không Khám)",
 "content":"Thiết lập (Phòng Khám + Phòng Bác sĩ) -> Ngoại trú -> Khám bệnh ngoại trú -> Khác -> Trả Bệnh Nhân ( Không Khám)"
 },
-{"label":" In phiếu khám bệnh vào viện",
+{"label":"In phiếu khám bệnh vào viện",
 "content":"Thiết lập (Phòng Khám + Phòng Bác sĩ) -> Ngoại trú -> Khám bệnh ngoại trú -> In ấn -> Phiếu khám bệnh vào viện "
+}, 
+{"label":"In phiếu khám bệnh vào viện",
+"content":"Thiết lập (Phòng Khám + Phòng Bác sĩ) -> Ngoại trú -> Khám bệnh ngoại trú -> Khác -> Trả Bệnh Nhân ( Không Khám)"
+},
+{"label":"Kim sinh thiết",
+"content":"Thiết lập (Phòng Khám + Phòng Bác sĩ) -> Ngoại trú -> Khám bệnh ngoại trú -> PTTT -> Chọn danh sách + chi tiết dịch vụ -> Thuốc, Vật tư đi kèm-> "
 }
 ]
