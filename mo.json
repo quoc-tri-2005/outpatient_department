@@ -5,7 +5,7 @@
   },
   {
     "label": "Mở Bệnh án để thao tác và khi kết thúc xử trí bị lỗi thời gian",
-    "content": "Chọn bệnh nhân -> xử trí -> Kết thúc khám -> đổi thời gian thành hiện tại -> Kết quả xử trí -> Xử trí -> Lưu",
+    "content": "Chọn bệnh nhân -> xử trí -> Kết thúc khám(Đổi thời gian thành hiện tại) -> Kết quả xử trí -> Xử trí -> Lưu",
     "result": "Phía dưới nhờ Bác Sĩ nhập giờ lớn hơn."
   }
 ]
