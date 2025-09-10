@@ -82,5 +82,10 @@
 },
 {"label":"Kim sinh thiết",
 "content":"Thiết lập (Phòng Khám + Phòng Bác sĩ) -> Ngoại trú -> Khám bệnh ngoại trú -> PTTT -> Chọn danh sách + chi tiết dịch vụ -> Thuốc, Vật tư đi kèm-> "
-}
+},
+{
+    "label": "Tạo phiếu chăm sóc",
+    "content": "Thiết lập phòng ( Phòng Khám Bệnh + Phòng Điều trị ngoại trú) -> Chọn Bệnh Nhân -> Chuột phải (Thêm Phiếu) -> Chọn Phiếu muốn tạo -> Tạo mới -> Lưu (Tạo phiếu cha) -> Nhập thông tin (Phiếu cha) ->Lưu Phiếu (Phiếu cha) -> Danh sách phiếu -> Chọn Phiếu cha -> Tạo mới -> Chọn phiếu cha -> Lưu -> Nhập thông tin (Phiếu con).",
+    "result": ""
+  }
 ]
