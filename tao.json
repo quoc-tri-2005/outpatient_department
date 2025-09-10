@@ -1,0 +1,32 @@
+[
+  {
+    "label": "Tạo phiếu tạm ứng",
+    "content": "Thiết lập phòng (Phòng Khám + Phòng điều trị ngoại trú) -> Ngoại trú -> Điều trị ngoại trú -> Hành chính điều trị ngoại trú -> Viện phí -> Lập phiếu tạm ứng"
+  },
+  {
+    "label": "Tạo phiếu lĩnh thuốc",
+    "content": "Nội trú -> Quản lý thuốc vật tư -> Quản lý phiếu lĩnh thuốc -> Chọn kho thuốc -> Chọn đơn thuốc -> Tạo phiếu"
+  },
+  {
+    "label": "Tạo phiếu công khám",
+    "content": "Thiết lập phòng (Phòng Khám + Phòng điều trị ngoại trú) -> Ngoại trú -> Điều trị ngoại trú -> Hành chính điều trị ngoại trú -> Chọn Bệnh nhân -> Dịch vụ -> Tạo phiếu công khám"
+  },
+  {
+    "label": "Tạo phiếu điều trị",
+    "content": "Thiết lập phòng (Phòng Khám + Phòng bác sĩ) -> Ngoại trú -> Khám bệnh ngoại trú -> Danh sách tiếp nhận -> Chọn Bệnh nhân -> Chuột phải -> Tạo phiếu điều trị"
+  },
+  {
+    "label": "Tạo biên bản hội chẩn không điều trị",
+    "content": "Thiết lập phòng (Phòng Khám + Phòng điều trị ngoại trú) -> Ngoại trú -> Điều trị ngoại trú -> Hành chính điều trị ngoại trú -> Chọn bệnh nhân -> Dịch vụ -> Tạo biên bản hội chẩn"
+  },
+  {
+    "label": "Tạo phiếu chăm sóc",
+    "content": "Thiết lập phòng (Phòng Khám Bệnh + Phòng Điều trị ngoại trú) -> Chọn Bệnh Nhân -> Chuột phải (Thêm Phiếu) -> Chọn Phiếu muốn tạo -> Tạo mới -> Lưu (Tạo phiếu cha) -> Nhập thông tin (Phiếu cha) ->Lưu Phiếu (Phiếu cha) -> Danh sách phiếu -> Chọn Phiếu cha -> Tạo mới -> Chọn phiếu cha -> Lưu -> Nhập thông tin (Phiếu con).",
+    "result": ""
+  },
+  {
+    "label": "Tạo bệnh án dài ngày khám bệnh",
+    "content": "Chọn Bệnh Nhân -> BA NGT -> Mở bệnh án -> chọn bệnh án -> Thông tin bệnh án hiển thị.",
+    "result": ""
+  }
+]

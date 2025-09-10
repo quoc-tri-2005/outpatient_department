@@ -1,0 +1,31 @@
+[
+  {
+    "label": "Đổi số thẻ BHYT",
+    "content": "Nội trú -> Chuyển thông tin bảo hiểm -> Chọn Bệnh nhân -> Chuyển đối tượng -> Đổi số thẻ BHYT"
+  },
+  {
+    "label": "Gia hạn thẻ BHYT",
+    "content": "Nội trú -> Chuyển thông tin bảo hiểm -> Chọn Bệnh nhân -> Chuyển đối tượng -> Đổi ngày kết thúc"
+  },
+  {
+    "label": "Đổi thông tin bệnh nhân",
+    "content": "Thiết lập phòng (Phòng Khám + Phòng bác sĩ) -> Ngoại trú -> Khám bệnh ngoại trú -> Danh sách tiếp nhận -> Chọn Bệnh nhân -> Chuột phải -> Cập nhật TTHC"
+  },
+  {
+    "label": "Coi lịch sử Bệnh án",
+    "content": "Thiết lập phòng (Phòng Khám + Phòng điều trị ngoại trú) -> Ngoại trú -> Điều trị ngoại trú -> Chọn Bệnh nhân -> Lịch sử -> Lịch sử bệnh án"
+  },
+  {
+    "label": "Lịch sử khám/điều trị chi tiết",
+    "content": "Thiết lập phòng (Phòng Khám + Phòng bác sĩ) -> Ngoại trú -> Khám bệnh ngoại trú -> Danh sách tiếp nhận -> Chọn Bệnh nhân -> Chuột phải -> Lịch sử khám"
+  },
+  {
+    "label": "Coi kết quả điều trị cũ",
+    "content": "Thiết lập phòng (Phòng Khám + Phòng bác sĩ) -> Ngoại trú -> Khám bệnh ngoại trú -> Chọn Bệnh nhân -> Chuột phải -> Lịch sử -> Chọn CLS -> In kết quả"
+  },
+
+  {
+    "label": "Trả bệnh nhân không khám ( tiền đề là chưa xử trí)",
+    "content": "Thiết lập phòng (Phòng Khám + Phòng bác sĩ) -> Chọn Bệnh Nhân -> Khác -> Trả bệnh nhân (không khám)."
+  }
+]

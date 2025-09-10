@@ -1,0 +1,14 @@
+[
+  {
+    "label": "Xếp giường cho Bệnh Nhân",
+    "content": "Tiếp nhận Bệnh nhân -> Xử trí -> Xếp giường cho Bệnh Nhân"
+  },
+  {
+    "label": "Trả phiếu",
+    "content": "Nội trú -> Điều trị nội trú -> Chọn BN -> Chọn thuốc đã kê -> Trả phiếu"
+  },
+  {
+    "label": "Duyệt phiếu lĩnh",
+    "content": "Dược -> Duyệt thuốc vật tư BN -> Duyệt phiếu lĩnh -> Chọn kho -> Chấp nhận"
+  }
+]

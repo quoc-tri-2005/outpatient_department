@@ -1,0 +1,26 @@
+[
+  {
+    "label": "In Bảng kê + Bảng kê BHYT + Bảng kê viện phí",
+    "content": "Thiết lập phòng (Phòng Khám + Phòng điều trị ngoại trú) -> Ngoại trú -> Điều trị ngoại trú -> Hành chính điều trị ngoại trú -> Chọn Bệnh nhân -> In ấn -> Bảng kê"
+  },
+  {
+    "label": "In ảnh bìa BA",
+    "content": "Thiết lập phòng (Phòng Khám + Phòng điều trị ngoại trú) -> Ngoại trú -> Hành chính ngoại trú -> In ấn -> In ảnh bìa BA"
+  },
+  {
+    "label": "In phiếu nghỉ ốm + Giấy chứng nhận nghỉ việc hưởng BHXH",
+    "content": "Thiết lập phòng (Phòng Khám + Phòng bác sĩ) -> Ngoại trú -> Khám bệnh ngoại trú -> In ấn -> Nghỉ hưởng BHXH -> Nhập thông tin -> Lưu -> In giấy nghỉ ốm"
+  },
+  {
+    "label": "In phiếu Phẫu Thuật/Thủ Thuật",
+    "content": "Thiết lập phòng (Phòng Khám + Phòng bác sĩ) -> Ngoại trú -> Quản lý phẫu thuật - thủ thuật -> Chọn Bệnh nhân -> In -> Chọn phiếu cần in"
+  },
+  {
+    "label": "In biên bản hội chẩn",
+    "content": "Thiết lập phòng (Phòng Khám + Phòng điều trị ngoại trú) -> Ngoại trú -> Hành chính ngoại trú -> Chọn Bệnh nhân -> Dịch vụ -> Tạo biên bản hội chẩn"
+  },
+  {
+    "label": "In giấy hẹn khám",
+    "content": "Ngoại trú -> Khám bệnh ngoại trú -> Chọn Bệnh nhân -> Xử trí -> Hẹn khám mới -> Nhập thông tin -> In giấy hẹn"
+  }
+]
