@@ -1,7 +1,7 @@
 [
   {
     "label": "Tạo phiếu tạm ứng",
-    "content": "Thiết lập phòng (Phòng Khám + Phòng điều trị ngoại trú) -> Ngoại trú -> Điều trị ngoại trú -> Hành chính điều trị ngoại trú -> Viện phí -> Lập phiếu tạm ứng || "Thiết lập phòng (Phòng Khám + Phòng bác sĩ) -> Chọn BN -> Khác -> Lập phiếu tạm ứng"
+    "content": "Thiết lập phòng (Phòng Khám + Phòng điều trị ngoại trú) -> Ngoại trú -> Điều trị ngoại trú -> Hành chính điều trị ngoại trú -> Viện phí -> Lập phiếu tạm ứng || Thiết lập phòng (Phòng Khám + Phòng bác sĩ) -> Chọn BN -> Khác -> Lập phiếu tạm ứng"
   },
   {
     "label": "Tạo phiếu lĩnh thuốc",
