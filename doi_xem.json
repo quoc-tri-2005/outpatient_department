@@ -23,9 +23,12 @@
     "label": "Coi kết quả điều trị cũ",
     "content": "Thiết lập phòng (Phòng Khám + Phòng bác sĩ) -> Ngoại trú -> Khám bệnh ngoại trú -> Chọn Bệnh nhân -> Chuột phải -> Lịch sử -> Chọn CLS -> In kết quả"
   },
-
   {
     "label": "Trả bệnh nhân không khám ( tiền đề là chưa xử trí)",
     "content": "Thiết lập phòng (Phòng Khám + Phòng bác sĩ) -> Chọn Bệnh Nhân -> Khác -> Trả bệnh nhân (không khám)."
+  },
+  {
+    "label": "Coi bệnh nhân đã khám ở phòng khám nào",
+    "content": "Thiết lập phòng (Phòng Khám + Phòng bác sĩ) -> Ngoại trú -> Khám bệnh ngoại trú -> Danh sách tiếp nhận -> Chọn Bệnh nhân -> Chuột phải (Lịch sử khám) -> Chọn Hồ sơ bệnh án -> Nhìn bên trái."
   }
 ]
