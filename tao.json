@@ -31,8 +31,9 @@
   },
   {
     "label": "Nhập sinh thiết",
-    "content": "Thiết lập phòng (Phòng Khám + Phòng bác sĩ) -> Ngoại trú -> Khám bệnh ngoại trú -> Danh sách tiếp nhận -> Chọn Bệnh nhân -> Chọn lại CLS -> Chọn chỉ định xét nghiệm + thông số xét nghiệm con -> Chuột phải (Nhập sinh thiết).",
+    "content": "Thiết lập phòng (Phòng Khám + Phòng bác sĩ) -> Ngoại trú -> Khám bệnh ngoại trú -> Danh sách tiếp nhận -> Chọn Bệnh nhân -> Chọn lại CLS -> Chọn chỉ định xét nghiệm + thông số xét nghiệm con -> Chuột phải (Nhập sinh thiết) || Thiết lập phòng (Phòng Khám + Phòng điều trị ngoại trú) -> Ngoại trú -> Khám bệnh ngoại trú -> Danh sách tiếp nhận -> Chọn Bệnh nhân -> Chọn lại CLS -> Chọn chỉ định xét nghiệm + thông số xét nghiệm con -> Chuột phải (Nhập sinh thiết).",
     "result": ""
   }
 ]
+
 
