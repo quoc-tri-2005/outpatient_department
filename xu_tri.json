@@ -10,5 +10,10 @@
   {
     "label": "Duyệt phiếu lĩnh",
     "content": "Dược -> Duyệt thuốc vật tư BN -> Duyệt phiếu lĩnh -> Chọn kho -> Chấp nhận"
+  },
+  {
+    "label": "Bị lỗi không có thông tin hẹn khám",
+    "content": "",
+    "result":"Xử trí khác đi rồi mở bệnh án xử trí lại hẹn khám."
   }
 ]
